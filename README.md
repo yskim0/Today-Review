@@ -1,2 +1,4 @@
 # Today-Review
-Today Plan &amp; Today Review
+
+👑 하루 계획과 그 하루에 대한 리뷰를 적어두는 저장소입니다.👑
+- `Issues`란에 매일마다 올려둡니다.
